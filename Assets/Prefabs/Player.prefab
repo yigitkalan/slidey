@@ -124,7 +124,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18e3a10a258d8cd4a87c8ff7d855c799, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forwardForce: 4000
+  forwardForce: 3000
   sideForce: 50
   rb: {fileID: 5001600394438967204}
 --- !u!114 &5001600394438967202
