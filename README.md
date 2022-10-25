@@ -1,13 +1,19 @@
-# Block Buster
+# Slidey
 
-#### Block Buster is a game where you control the launch pad and try to break all blocks without dropping the ball, there are boosts that are good and bad for you. Quicker you break the blacks more points you get
+####  Slidey is a fast paced dodge game, where you are a block and try to avoid obstacles while you're going to the end of the level
 
 
 #### You can play the game with the right version of the game in the /ReadyVersion folder in the repo. To quit the game you can ALT+F4.
 
 
-![Example 1](https://user-images.githubusercontent.com/77335427/197759147-58430706-78c9-43c8-9992-70a4e9d6bc50.png)
+#### Controls: a for left, d for right
 
-![Example 2](https://user-images.githubusercontent.com/77335427/197759182-5f733f01-c7a0-4e1b-9e5a-ed60cdd8a6c3.png)
 
-![Example 3](https://user-images.githubusercontent.com/77335427/197759193-1fca5db4-e0b5-49c8-a640-f0b158893e6b.png)
+![Example 1])(https://user-images.githubusercontent.com/77335427/197772568-8ade6ff9-1858-40d6-9ae5-4787868406cd.png)
+
+![Example 2](https://user-images.githubusercontent.com/77335427/197772702-aad774b9-02dd-48eb-99e2-76a519d139c7.png)
+
+![Example 3](https://user-images.githubusercontent.com/77335427/197772768-e96c3787-c9fa-4a8d-94e1-d485b6311240.png)
+
+
+
